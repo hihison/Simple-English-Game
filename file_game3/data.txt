@@ -1,0 +1,9 @@
+dog
+cat
+cars
+tomato
+orange
+lemon
+plum
+cherry
+pineapple

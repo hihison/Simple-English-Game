@@ -1,0 +1,6 @@
+tomato
+orange
+lemon
+plum
+cherry
+pineapple

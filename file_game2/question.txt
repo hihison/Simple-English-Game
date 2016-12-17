@@ -1,0 +1,24 @@
+A.tree 
+B.mouse 
+C.paper
+D.man 
+A.table 
+B. chair 
+C. wood
+D. cupboard 
+A. ear 
+B. chest
+C. lip 
+D. nose 
+A. silver 
+B. gold 
+C. platinum 
+D. ivory
+A. Mother               
+B. Brother
+C. Friend
+D. Daughter
+A.Boy
+B.Female
+C.Women
+D.Girl
