@@ -1,7 +1,7 @@
 {
 /*
    Name: English Gaming System
-   Author:  Chan Ngo Yin
+   Author:  hihison
    Description: N/A
    Copyright:   Creative Commons 4.0
 */
